@@ -1,2 +1,3 @@
 # guessing_game
-Simple guessing game built with Rust
+
+Simple number guessing game built with Rust
